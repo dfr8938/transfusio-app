@@ -1500,8 +1500,8 @@ const listAnswers = [
   },
   {
     id: 261,
-    question: "",
-    answer: "",
+    question: "Процент людей с резус-положительной кровью:",
+    answer: "85%",
   },
   {
     id: 262,
