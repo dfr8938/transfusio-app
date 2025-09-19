@@ -5,8 +5,10 @@
   border-radius: 10px;
   text-align: justify;
   margin: 3px;
+  border: 1px solid #eee;
   box-shadow: rgba(0, 0, 0, 0.04) 0px 3px 5px;
   transition: 0.5s ease all;
+  overflow: hidden;
 }
 
 .list-item:hover {
@@ -19,7 +21,12 @@
   color: #2a9d8f;
   font-size: 12px;
   font-weight: bold;
+  hyphens: auto;
+  -ms-hyphens: auto;
+  -moz-hyphens: auto;
   padding-bottom: 10px;
+  border-bottom: 1px solid #eee;
+  overflow-wrap: anywhere;
 }
 
 .list-item-answer {
@@ -29,4 +36,9 @@
   border-radius: 3px;
   word-break: break-all;
   white-space: break-spaces;
+  margin-top: 10px;
+  hyphens: auto;
+  -ms-hyphens: auto;
+  -moz-hyphens: auto;
+  overflow-wrap: anywhere;
 }
