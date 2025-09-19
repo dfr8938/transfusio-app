@@ -1465,19 +1465,60 @@ const listAnswers = [
   },
   {
     id: 254,
-    question: "",
-    answer: "",
+    question: "Временное медицинское противопоказание для сдачи крови и (или) её компонентов:",
+    answer: "масса тела менее 50 кг",
   },
   {
     id: 255,
-    question: "",
-    answer: "",
+    question: "После переливания эритроцитсодержащих сред осуществляются следующие посттрансфузионные наблюдения:",
+    answer: "всё перечисленное верно",
   },
   {
     id: 256,
     question: "",
     answer: "",
   },
+  {
+    id: 257,
+    question: "",
+    answer: "",
+  },
+  {
+    id: 258,
+    question: "",
+    answer: "",
+  },
+  {
+    id: 259,
+    question: "",
+    answer: "",
+  },
+  {
+    id: 260,
+    question: "",
+    answer: "",
+  },
+  {
+    id: 261,
+    question: "",
+    answer: "",
+  },
+  {
+    id: 262,
+    question: "",
+    answer: "",
+  },
+  {
+    id: 263,
+    question: "",
+    answer: "",
+  },
+  {
+    id: 264,
+    question: "",
+    answer: "",
+  },
+
 ];
 
 export { listAnswers };
