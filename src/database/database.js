@@ -1485,8 +1485,8 @@ const listAnswers = [
   },
   {
     id: 258,
-    question: "",
-    answer: "",
+    question: "Основной кроветворный орган у взрослого человека",
+    answer: "костный мозг",
   },
   {
     id: 259,
