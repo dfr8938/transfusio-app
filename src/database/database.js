@@ -1416,11 +1416,56 @@ const listAnswers = [
   },
   {
     id: 246,
+    question: "Прослеживаемость донорской крови и ее компонентов это:",
+    answer: "все перечисленное верно",
+  },
+  {
+    id: 247,
+    question: "Приоритет открытия групп крови принадлежит: ",
+    answer: "К. Ландштайнеру",
+  },
+  {
+    id: 248,
     question: "",
     answer: "",
   },
   {
-    id: 247,
+    id: 249,
+    question: "",
+    answer: "",
+  },
+  {
+    id: 250,
+    question: "",
+    answer: "",
+  },
+  {
+    id: 251,
+    question: "",
+    answer: "",
+  },
+  {
+    id: 252,
+    question: "",
+    answer: "",
+  },
+  {
+    id: 253,
+    question: "",
+    answer: "",
+  },
+  {
+    id: 254,
+    question: "",
+    answer: "",
+  },
+  {
+    id: 255,
+    question: "",
+    answer: "",
+  },
+  {
+    id: 256,
     question: "",
     answer: "",
   },
