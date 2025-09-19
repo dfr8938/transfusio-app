@@ -1460,8 +1460,8 @@ const listAnswers = [
   },
   {
     id: 253,
-    question: "",
-    answer: "",
+    question: "Фибриноген хранят:",
+    answer: "2 года",
   },
   {
     id: 254,
