@@ -4,7 +4,7 @@ import "./App.css";
 
 import { SearchPanel, ListItem } from "./components";
 
-import { listAnswers } from "./database";
+import { listAnswers } from "../database";
 
 class App extends React.Component {
   state = {
